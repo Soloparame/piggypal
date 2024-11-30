@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "testuser",
+      "password": "password123",
+      "budget": 5000,
+      "expenses": [],
+      "savingsGoals": [],
+      "billReminders": []
+    },
+    {
+      "id": "03b1",
+      "name": "Rebika Yihenew",
+      "email": "yihenewrebika@gmail.com",
+      "password": "12345678",
+      "age": "22",
+      "gender": "Female",
+      "department": "software engineering",
+      "year": "4th",
+      "budget": 0,
+      "expenses": [],
+      "savingsGoals": [],
+      "billReminders": []
+    },
+    {
+      "id": "5ca9",
+      "name": "Rebika Yihenew",
+      "email": "yihenewrebika@gmail.com",
+      "password": "123456789",
+      "age": "22",
+      "gender": "",
+      "department": "software engineering",
+      "year": "4th",
+      "budget": 0,
+      "expenses": [],
+      "savingsGoals": [],
+      "billReminders": []
+    }
+  ]
+}
